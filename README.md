@@ -10,7 +10,7 @@ Project Scrabble:
   
 Project Preprocessor:
   -simple file preprocessor
-  -useful since python doesnt have #defines like c
+  -useful since python doesnt have #defines like c, but thats probably for a reason lol
 
 Project Hackthissite_programmingChallenge_2:
   -goto hackthissite.org -> programming challenge 2
