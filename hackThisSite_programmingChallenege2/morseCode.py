@@ -46,7 +46,7 @@ class Morse():
 		self.morse = {m1:'1',m2:'2',m3:'3',m4:'4',m5:'5',m6:'6',m7:'7',m8:'8',m9:'9',m0:'0', a:'a',b:'b',c:'c',d:'d',e:'e',f:'f',g:'g',h:'h',i:'i',j:'j',k:'k',l:'l',m:'m',n:'n',o:'o',p:'p',q:'q',r:'r',s:'s',t:'t',u:'u',v:'v',w:'w',x:'x',y:'y',z:'z'}
 
 		
-	#prints the disctionary values
+	#prints the dictionary values
 	def printAlphanumeric(self):
 		print(self.morse)
 
