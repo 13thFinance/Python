@@ -3,7 +3,7 @@ class Morse():
 	def __init__(self):
 		print("MorseObject Created")
 
-	#morse hardcoded values
+	#morse hardcoded values, makes translations faster.
 		a = ('.', '-')
 		b = ('-','.','.', '.')
 		c = ('-', '.', '-', '.')
