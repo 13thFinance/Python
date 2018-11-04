@@ -1,5 +1,5 @@
-#converts a black and white png image from hackthissite.org programming challenege 2
-#into morse which then is translated
+#converts a black and white png image from hackthissite.org programming challenge 2
+#into morse which then is translated to english
 
 import numpy as np
 from PIL import Image
