@@ -7,9 +7,10 @@
   
 ~~~
   
-Project Scrabble:
-  -simple wordgame
-  
+## Project Scrabble: ##
+~~~
+- Simple wordgame
+~~~
   
 Project Preprocessor:
   -simple file preprocessor
